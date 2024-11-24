@@ -10,21 +10,31 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+[Good Visualization](https://public.tableau.com/app/profile/fergus.smith/viz/FastFashionsEnvironmentalWakeUpCall/Dashboard1)
+
+Aesthetic: The author’s choice to use a pair of pants as the background is smart. It ties into the topic of the visualization and gives them a unique way to display the data. The audience does have to use more cognitive load to take in the visualization as it uses rare chart types and detailed composition. 
+
+Substantive: The visualization does display the data accurately however, it is not objective, and the belief around the honesty of the visualization is up to the audience. The visualization does include references to the data used, but the author has chosen specific data to support their conclusion. In my opinion, this doesn’t make the visualization bad as it was created to convey a specific message. 
+
+Perceptual: The message being conveyed is clear, and the author is leading the audience to specific insights to be gathered through the data. 
 
 
+[Bad Visualization](https://public.tableau.com/app/profile/michael.dunphy8764/viz/HowUsersRegularlyGetNewsonSocialMediaSites/Dashboard):
 
+Aesthetic: While the visualization is simple, it is not the most visually appealing. The visualization is very concise and guides the audience through the data. However, the way the data is displayed makes comparisons between the social media sites difficult due to having all the years displayed at once. 
 
+Substantive: One good point of this visualization is that it does display the data accurately and honestly; however, it could be better displayed to show the comparison between each social media site to show a more meaningful comparison. 
 
+Perceptual: The message being conveyed is clear, and it follows the four conventions of data visualization, it is not making as strong of an impact on the viewer as it could. If it was easier to compare the social media sites, the audience could draw greater conclusions from the visual. 
 
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+Good visualization - Two things that could be improved to reduce the cognitive load on the viewer. Text annotations to identify the industries rather than icons could have improved the average pulse score visualization. Also, a different choice of chart to represent the impact on planetary boundaries as the chart could take longer for the audience to understand. 
 
 
-
+Bad visualization - I think the author could have used Tableau better by making the visualization more interactive. Instead of displaying all the years at once and using small scatter plots, they could have made it possible to have different visualizations for each year and click a button to choose which year to display. 
 
 
 
