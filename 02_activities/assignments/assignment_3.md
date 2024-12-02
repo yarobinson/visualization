@@ -15,33 +15,33 @@
   - In terms of accessibility, the visualization isn't accessible due to stylistic choices (colour and text) and           descriptive content is not clearly shown. 
 
     Bad visualization:
-    - This visualization is equitable as it represents the data fairly and is simple enough to be easily accessible to        a wide variety of audiences.
-    - This visualization is quite reproducible as it uses a simple visualization design, the data sources are included 
-      and can be accessed by others. However similar to the good visualization, the changes made by the author can not 
-      be tracked or accessed due to the use of Tableau.
-    - The visualization is accessible as the information is clearly shown, making it accessible to a wider 
-      audience. However, using colour to differentiate between different social media platforms could make the
-      visualization difficult to view for those with colour blindness. 
+  - This visualization is equitable as it represents the data fairly and is simple enough to be easily accessible to       a wide variety of audiences.
+  - This visualization is quite reproducible as it uses a simple visualization design, the data sources are included 
+    and can be accessed by others. However similar to the good visualization, the changes made by the author can not 
+    be tracked or accessed due to the use of Tableau.
+  - The visualization is accessible as the information is clearly shown, making it accessible to a wider 
+    audience. However, using colour to differentiate between different social media platforms could make the
+    visualization difficult to view for those with colour blindness. 
 
 
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
-       Good visualization:
-        - While the design of the visualization ties into the topic, the visualization could be made more accessible 
-          by using a simpler design such as easier-to-read text/font. 
-        - To keep the same design but improve accessibility, alt-text and captions could be clearly shown rather than 
-         the audience having to hover over icons to view text (which could be a problem for people with screen 
-         readers).
-        - To improve reproducibility, the visualization could be created using a tool where the changes and choices 
-          made by the author were tracked and easily accessible to the audience.
-        - The equitability of the visualization could be improved by implementing the changes above. 
+    Good visualization:
+  - While the design of the visualization ties into the topic, the visualization could be made more accessible 
+    by using a simpler design such as easier-to-read text/font. 
+  - To keep the same design but improve accessibility, alt-text and captions could be clearly shown rather than 
+    the audience having to hover over icons to view text (which could be a problem for people with screen 
+    readers).
+  - To improve reproducibility, the visualization could be created using a tool where the changes and choices 
+    made by the author were tracked and easily accessible to the audience.
+  - The equitability of the visualization could be improved by implementing the changes above. 
 
-       Bad visualization
-        - The visualization could be made more accessible by changing the colours used to represent the various social 
-          media platforms to colours that could be more easily seen by people with colour blindness.
-        - To improve reproducibility, the visualization could be created using a tool where the changes and choices 
-          made by the author were tracked and easily accessible to the audience. 
+    Bad visualization
+  - The visualization could be made more accessible by changing the colours used to represent the various social 
+    media platforms to colours that could be more easily seen by people with colour blindness.
+  - To improve reproducibility, the visualization could be created using a tool where the changes and choices 
+    made by the author were tracked and easily accessible to the audience. 
 
 
         ```
