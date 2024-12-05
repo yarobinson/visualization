@@ -6,24 +6,38 @@
 - We will finish this class by giving you the chance to use what you have learned in a practical context, by creating data visualizations from raw data. 
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
-- For each visualization, describe and justify: 
-    > What software did you use to create your data visualization?
+- For each visualization, describe and justify:
 
-    > Who is your intended audience? 
+## Python visualization is located in the participation folder labelled as Scarborough TPL Visits in 2022
+## My Tableau visualization is located [here](https://public.tableau.com/app/profile/yasmine.robinson/viz/TorontoPublicLibraryVisitsin2022/Sheet1#1)
+    > What software did you use to create your data visualization?
+- I used matplotlib to create my bar chart visualization as this was a straightforward method to generate the visualization.
+- I used Tableau for my map visualization as I knew that Tableau had the features I needed to create my visualization in map form
+
+    > Who is your intended audience?
+  - My intended audience for my bar chart are those interested in visiting data for libraries in the Scarborough area
+  - My intended audience for my map is audiences interested in the locations of Toronto's least and most visited libraries
     
-    > What information or message are you trying to convey with your visualization? 
+    > What information or message are you trying to convey with your visualization?
+  - In my bar chart, I am trying to convey the differences in traffic between various libraries in Scarborough
+  - In my Tableau visualization, I am trying to convey the levels of volume between libraries across Toronto through the size and colour of data points. 
     
-    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
+    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?
+    - 
     
-    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
+    - My bar chart is more reproducible then my Tableau visualization as I used 
     
-    > How did you ensure that your data visualization is accessible?  
+    > How did you ensure that your data visualization is accessible?
+  When creating my data visualizations, I considered colour, text 
     
     > Who are the individuals and communities who might be impacted by your visualization?  
     
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
     
     > What ‘underwater labour’ contributed to your final data visualization product?
+    - City of Toronto employees tasked with tracking the visits to each library in Toronto
+    - The teams tasked with putting together the TPL visits dataset and uploading it to the site
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
